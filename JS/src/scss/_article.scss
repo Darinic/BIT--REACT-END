@@ -1,0 +1,7 @@
+main {
+    article {
+        a{
+            @include supper-button(#eedd66, 10px)
+        }
+    }
+}

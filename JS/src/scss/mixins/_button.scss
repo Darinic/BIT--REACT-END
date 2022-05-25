@@ -1,0 +1,6 @@
+@mixin supper-button($color, $radius) {
+    border-radius: $radius;
+    background-color: $color;
+    padding:5px;
+    text-align: center;
+}
